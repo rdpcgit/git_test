@@ -1,0 +1,7 @@
+#!/usr/bin/tcsh 
+#
+# file: hello script
+
+echo "Hello git."
+
+
