@@ -2,6 +2,6 @@
 #
 # file: hello script
 
-echo "Hello git."
+echo "master: Hello git."
 
 
