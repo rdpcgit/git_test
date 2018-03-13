@@ -2,7 +2,7 @@
 #
 # file: hello script
 
-echo "Hello git."
+echo "master: Hello git."
 
 echo "branch1 edit 3/12/2018 4:53pm"
 
